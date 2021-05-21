@@ -1,0 +1,51 @@
+{
+    "Address": {
+        "screenshot": ".images\\address-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "Head dd": {
+        "screenshot": ".images\\head-dd-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    },
+    "Legs": {
+        "screenshot": ".images\\legs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "1621525100981"
+    },
+    "OK": {
+        "screenshot": ".images\\ok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "BUTTON.btn.btn-dark"
+    },
+    "Preview": {
+        "screenshot": ".images\\preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "Radio button": {
+        "screenshot": ".images\\radio-button-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "class",
+        "type": "browser",
+        "value": "stacked"
+    },
+    "Submit": {
+        "screenshot": "",
+        "source": "",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    }
+}
